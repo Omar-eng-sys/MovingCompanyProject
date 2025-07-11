@@ -18,7 +18,7 @@ Built as part of the [Dr. Angela Yu Web Development Bootcamp], this project demo
 
 ## 📷 Screenshot
 
-[Screen shots](./assets/WhatsApp Image 2025-07-11 at 11.17.25_768f2eb9)
+![Screen shots](./assets/WhatsApp Image 2025-07-11 at 11.17.25_768f2eb9)
 
 ---
 
